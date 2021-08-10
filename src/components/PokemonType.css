@@ -1,0 +1,54 @@
+.typeParent {
+  display: flex;
+  justify-content: center;
+}
+
+.pokeType {
+  display: flex;
+  border-radius: 25px;
+  border: 2px solid #000000;
+  padding: 20px;
+  height: auto;
+  text-align: center;
+  margin: 8px;
+}
+
+.grass {
+  background-color: green;
+}
+
+.poison {
+  background-color: purple;
+}
+
+.fire {
+  background-color: red;
+}
+
+.water {
+  background-color: lightblue;
+}
+
+.bug {
+  background-color: lightgreen;
+}
+
+.flying {
+  background-color: lightgray;
+}
+
+.normal {
+  background-color: whitesmoke;
+}
+
+.electric {
+  background-color: yellow;
+}
+
+.ground {
+  background-color: #806113;
+}
+
+.fairy {
+  background-color: #fcc4ff;
+}
